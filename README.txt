@@ -1,5 +1,4 @@
 # Plants are Friends
-Capstone project for NSS Aug 2024
 
 ## Executive Summary
 Few people don’t know the disappointment of adopting a houseplant only to have it die. Water, light, soil acidity, it can be tricky. Maybe you just need to choose the right plant, but how? 
