@@ -7,9 +7,9 @@ Few people don’t know the disappointment of adopting a houseplant only to have
 ## Motivation
 Plants can make us happier and even more productive! We spend on average 34.4 hours per week in the office, more if our office happens to be our home. Plants can make such important locations better. They also make great gifts! Even if you only know the recipient slightly, a well-chosen plant can bring them joy. Especially if they have a record of killing plants; then they need a steady supply!
 
-Source - improves mental health:
+ - Article for improves mental health:
 	de Seixas M, Williamson D, Barker G, Vickerstaff R. Horticultural therapy in a psychiatric in-patient setting. BJPsych Int. 2017 Nov 1;14(4):87-89. doi: 10.1192/s2056474000002087. PMID: 29093958; PMCID: PMC5663021.
-Source - improves productivity
+ - Article for improves productivity:
 	Ostner, S. W. (2021). Biophilia hypothesis: The benefits of nature in the workplace. In R. Appel-Meulenbroek & V. Danivska (Eds.), A handbook of theories on designing alignment between people and the office environment (pp. 169–180). Routledge/Taylor & Francis Group. https://doi.org/10.1201/9781003128830-15
 
 ## Data Questions
