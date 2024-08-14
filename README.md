@@ -18,9 +18,8 @@ Violet is opening a plant shop staged as a house with different levels of light 
  - How much space will she need for each lighting condition
  - Which plants require high maintenance? Can they all be in the same room?
  - What types of soil will she need to purchase and how much of each mix will be needed? 
- - She would like to cluster plants that need more frequent watering together as well, will this be possible?
- - If she wanted her store to be pet friendly, what proportion of plants would have to be out of their reach? Or how many toxicity signs would she have to order?
- - Are there any plants on the list that would be difficult to put in the shop (outliers)?
+ - How many "toxicity", "high maintenance", and "tolerates neglect" signs would she have to order?
+ - How will customers find the right plant for them (dashboard)?
 
 ## Minimum Viable Product (MVP)
 Must Have:
