@@ -32,7 +32,13 @@ Data sources – Web scraping from two sites and manual fill of a few missing da
 2. https://www.gardenia.net
 3. https://brainygardener.com/
 
-Known Issues and Challenges
+## Technology
+ - Python for webscraping and data cleaning
+ - Excel for some spot cleaning and filling in a few missing data points
+ - PowerBI for visualizations used in slide deck and interactive dashboard (see Plant Friends Presentation.pdf for link)
+ - Google Slides for presentation (includes speaker notes)
+
+## Known Issues and Challenges
 Possible challenges:
  - The API doesn’t work (it didn't, it stopped being supported around 2 years ago)
  - Web scraping provides widely varying data or insufficient data (also happened!)
