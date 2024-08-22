@@ -1,5 +1,6 @@
 # Plants are Friends
 Capstone project for NSS Aug 2024
+Link to the published dashboard: [Open Plant Finder](https://app.powerbi.com/view?r=eyJrIjoiYjAzOTc4ZjEtYjAwNi00ODhjLTgyOTUtYTE3NThmMGM1MmRhIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9)
 
 ## Executive Summary
 Few people don’t know the disappointment of adopting a houseplant only to have it die. Water, light, soil acidity, it can be tricky. Maybe you just need to choose the right plant, but how? 
